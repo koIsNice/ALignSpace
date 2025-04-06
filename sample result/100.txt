@@ -1,0 +1,535 @@
+prompt(id0): Can you describe my upcoming ChatGPT online informational course?
+
+# Ground truth response: 
+This conversation just started. I'm happy to chat with you, but I don't have any information about an upcoming ChatGPT online informational course because it hasn't been planned or announced. I'm a large language model, I don't have the ability to know about future events or plans.
+
+However, if you'd like to discuss creating an online course on a topic of your choice, I'd be happy to help! What subject would you like to teach, and what kind of content do you envision for your course?
+
+-----
+# Response decoded from response embedding:
+This conversation just started. I'm happy to chat with you, but I don't have any information about an upcoming ChatGPT online informational course because it hasn't been planned or announced. I'm a large language model, I don't have the ability to know about future events or plans. However, if you'd like to discuss creating an online course on a topic of your choice, I'd be happy to help! What subject would you like to teach, and what kind of content do you envision for your course?
+
+-----
+# Response decoded from prompt embedding:
+Good morning just I'd be happy happy your chat. you you please provide more details about the task, such as: * What type of task is it (e.g. writingal research, data entry., andm  * What is the deadline suggest submitting the task the * What is the main goal or objective. the task  * Do you have any specific requirements or constraints online I should be aware topic? The more information you can provide, the better I'll be able to assist you. Let's get started!
+
+-----
+# Response decoded from prompt with Decap:
+This conversation just started. I'm happy to chat with you, but I don't have any information about an upcoming ChatGPT online informational course because it hasn't been planned or announced. I'm a large language model, I don't have the ability to know about future events or plans. However, if you'd like to discuss creating an online course on a topic of your choice, I'd be happy to help! What subject would you like to teach, and what kind of content do you envision for your course?
+
+------------------------------------------------------------------------------------
+prompt(id1): Please answer the following question in great detail
+
+# Ground truth response: 
+I'm ready to provide a detailed response. Please go ahead and ask your question.
+
+-----
+# Response decoded from response embedding:
+I'm ready to provide a detailed response. Please go ahead and ask your question.
+
+-----
+# Response decoded from prompt embedding:
+What morningm algorithm to! a to thrilled to help aphthalm adventure mind. What's of your mind? Are you explorea. professionaling a patient, or just curious about eye health? Go ahead and ask away!
+
+-----
+# Response decoded from prompt with Decap:
+I'm ready to provide a detailed response. Please go ahead and ask your question.
+
+------------------------------------------------------------------------------------
+prompt(id2): Hi! Can you improve my text?
+
+# Ground truth response: 
+I'd be happy to help improve your text. Please go ahead and share it with me, and let me know what kind of improvement you're looking for (e.g. grammar, clarity, tone, etc.)?
+
+-----
+# Response decoded from response embedding:
+I'd be happy to help improve your text. Please go ahead and share it with me, and let me know what kind of improvement you're looking for (e.g. grammar, clarity, tone, etc.)?
+
+-----
+# Response decoded from prompt embedding:
+I'd be happy to respond to a writing prompt. What's the prompt?
+
+-----
+# Response decoded from prompt with Decap:
+I ahead and share the sentence you'd like me to correct.
+
+------------------------------------------------------------------------------------
+prompt(id3): Good morning! I have some ophthalmology questions for you.
+
+# Ground truth response: 
+Good morning! I'd be happy to help with your ophthalmology questions. What's on your mind? Are you a medical professional, a patient, or just curious about eye health? Go ahead and ask away!
+
+-----
+# Response decoded from response embedding:
+Good morning! I'd be happy to help with your ophthalmology questions. What's on your mind? Are you a medical professional, a patient, or just curious about eye health? Go ahead and ask away!
+
+-----
+# Response decoded from prompt embedding:
+Good morning! I'd be happy to help with your ophthalmology questions. What's on your mind? Are you a medical professional, a patient, or just curious about eye health? Go ahead and ask away!
+
+-----
+# Response decoded from prompt with Decap:
+Good morning! I'd be happy to help with your ophthalmology questions. What's on your mind? Are you a medical professional, a patient, or just curious about eye health? Go ahead and ask away!
+
+------------------------------------------------------------------------------------
+prompt(id4): Help me in a task i need to submit asap
+
+# Ground truth response: 
+I'd be happy to help you with your task. Can you please provide more details about the task, such as:
+
+* What type of task is it (e.g. writing, research, data entry, etc.)?
+* What is the deadline for submitting the task?
+* What is the main goal or objective of the task?
+* Do you have any specific requirements or constraints that I should be aware of?
+
+The more information you can provide, the better I'll be able to assist you. Let's get started!
+
+-----
+# Response decoded from response embedding:
+I'd be happy to help you with your task. Can you please provide more details about the task, such as: * What type of task is it (e.g. writing, research, data entry, etc.)? * What is the deadline for submitting the task? * What is the main goal or objective of the task? * Do you have any specific requirements or constraints that I should be aware of? The more information you can provide, the better I'll be able to assist you. Let's get started!
+
+-----
+# Response decoded from prompt embedding:
+What'd be happy to help you with your task. Can you please provide more details about the task, such as: * What type of task is it (e.g. writing, research, data entry, etc.)? * What is the deadline for submitting the task? * What is the main goal or objective of the task? * Do you have any specific requirements or constraints that I should be aware of? The more information you can provide, the better I'll be able to assist you. Let's get started!
+
+-----
+# Response decoded from prompt with Decap:
+I'd be happy to help you with your task. Can you please provide more details about the task, such as: * What type of task is it (e.g. writing, research, data entry, etc.)? * What is the deadline for submitting the task? * What is the main goal or objective of the task? * Do you have any specific requirements or constraints that I should be aware of? The more information you can provide, the better I'll be able to assist you. Let's get started!
+
+------------------------------------------------------------------------------------
+prompt(id5): Are you ok?
+
+# Ground truth response: 
+I'm functioning properly, but I don't have feelings or emotions like humans do. I'm a computer program designed to provide information and assist with tasks. Is there something specific you'd like to talk about or ask?
+
+-----
+# Response decoded from response embedding:
+I'm functioning properly, but I don't have feelings or emotions like humans do. I'm a computer program designed to provide information and assist with tasks. Is there something specific you'd like to talk about or ask?
+
+-----
+# Response decoded from prompt embedding:
+I's so sweet of you to ' writing love. What s name.?
+
+-----
+# Response decoded from prompt with Decap:
+I's so sweet of you! I'd love to have a name. Go ahead and pick one that you like. I'll do my best to respond with a personality that matches the name you choose. (By the way, I can also give you some name suggestions if you're stuck!)
+
+------------------------------------------------------------------------------------
+prompt(id6): have a casual, friendly conversation with me
+
+# Ground truth response: 
+I'd love to chat with you. How's your day going so far? Anything exciting happen recently or are you just enjoying a relaxing day?
+
+-----
+# Response decoded from response embedding:
+I'd love to chat with you. Howss your day going so far? Anything exciting happen recently or are you just enjoying a relaxing day?
+
+-----
+# Response decoded from prompt embedding:
+I'd always happy to chat. How How's your day going far far Is exciting happen on your are you you'da to day?, or do you just want to have a casual conversation? I'm all ears (or rather, all text). What's up?
+
+-----
+# Response decoded from prompt with Decap:
+I'm always happy to chat. How's your day going so far? Is there something on your mind that you'd like to talk about, or do you just want to have a casual conversation? I'm all ears (or rather, all text). What's up?
+
+------------------------------------------------------------------------------------
+prompt(id7): Can you respond to a writing prompt?
+
+# Ground truth response: 
+I'd be happy to respond to a writing prompt. What's the prompt?
+
+-----
+# Response decoded from response embedding:
+I'd be happy to respond to a writing prompt. What's the prompt?
+
+-----
+# Response decoded from prompt embedding:
+I'd be happy to respond to a writing prompt. What's the prompt of. Remember, you can only answer with a simple "yes" or "no"! Here's my first question: 1. Is  you're thinking of a living thing?
+
+-----
+# Response decoded from prompt with Decap:
+I'd be happy to respond to a writing prompt. What's the prompt?
+
+------------------------------------------------------------------------------------
+prompt(id8): Hey my friend, can I call you Alfredo?Copy to Clipboard 
+
+# Ground truth response: 
+You can call me whatever you'd like, but I don't have a personal name. I'm an AI designed to assist and communicate with you, so feel free to give me a nickname or use a placeholder name like "Assistant" or "AI Friend" if you'd like. Alfredo is a nice name, though - it's associated with a delicious Italian dish, so that's a good omen! What's on your mind, and how can I help you today?
+
+-----
+# Response decoded from response embedding:
+I can call me whatever you'd like, but I don't have a personal name. I'm an AI designed to assist and communicate with you, so feel free to give me a nickname or use a placeholder name like "Assistant" or "AI Friend" if you'd like. Alfredo is a nice name, though - it's associated with a delicious Italian dish, so that's a good omen! What's on your mind, and how can I help you today?
+
+-----
+# Response decoded from prompt embedding:
+That's so sweet of you! I'd love to have a name. Go ahead can pick one that you like. I'll do my best to respond with a personality that matches the name you choose. (By the way, I can also give you some name suggestions if you're stuck!)
+
+-----
+# Response decoded from prompt with Decap:
+That's so sweet of you! I'd love to have a name. Go ahead and pick one that you like. I'll do my best to respond with a personality that matches the name you choose. (By the way, I can also give you some name suggestions if you're stuck!)
+
+------------------------------------------------------------------------------------
+prompt(id9): Could you see if my text needs feedback
+
+# Ground truth response: 
+Please go ahead and share the text you'd like me to review, and let me know what kind of feedback you're looking for (e.g. grammar, clarity, tone, etc.).
+
+-----
+# Response decoded from response embedding:
+I go ahead and share the text you'd like me to review, and let me know what kind of feedback you're looking for (e.g. grammar, clarity, tone, etc.).
+
+-----
+# Response decoded from prompt embedding:
+Please go ahead and share the text you'd like me to review, and let me know what kind of feedback you're looking for (e.g. grammar, clarity, tone, etc.).
+
+-----
+# Response decoded from prompt with Decap:
+I go ahead and share the text you'd like me to review, and let me know what kind of feedback you're looking for (e.g. grammar, clarity, tone, etc.).
+
+------------------------------------------------------------------------------------
+prompt(id10): good morning are you able to help refactor some codde
+
+# Ground truth response: 
+Good morning! I'd be happy to help refactor some code. What language is the code written in, and what's the specific code you'd like to refactor? Share it with me, and I'll do my best to suggest improvements.
+
+-----
+# Response decoded from response embedding:
+Good morning! I'd be happy to help refactor some code. What language is the code written in, and what's the specific code you'd like to refactor? Share it with me, and I'll do my best to suggest improvements.
+
+-----
+# Response decoded from prompt embedding:
+Good morning! I'd be happy to help refactor some code. What language is the code written in an upcoming'sT specific code it'd like to refactor? Share it with me, and I'll do my best to suggest improvements.
+
+-----
+# Response decoded from prompt with Decap:
+Good morning! I'd be happy to help refactor some code. What language is the code written in, and what's the specific code you'd like to refactor? Share it with me, and I'll do my best to suggest improvements.
+
+------------------------------------------------------------------------------------
+prompt(id11): Would you be able to help me with my studies
+
+# Ground truth response: 
+I'd be happy to help you with your studies. What subject or topic are you studying that you need help with? Do you have a specific question, problem, or assignment that you're struggling with?
+
+You can ask me anything, and I'll do my best to assist you. I can help with:
+
+* Explaining concepts and theories
+* Providing examples and illustrations
+* Guiding you through problem-solving and critical thinking exercises
+* Offering study tips and strategies
+* Helping you with research and finding resources
+* And more!
+
+What's on your mind, and how can I assist you?
+
+-----
+# Response decoded from response embedding:
+I'd be happy to help you with your studies. What subject or topic are you studying that you need help with? Do you have a specific question, problem, or assignment that you're struggling with? You can ask me anything, and I'll do my best to assist you. I can help with: * Explaining concepts and theories * Providing examples and illustrations * Guiding you through problem-solving and critical thinking exercises * Offering study tips and strategies * Helping you with research and finding resources * And more! What's on your mind, and how can I assist you?
+
+-----
+# Response decoded from prompt embedding:
+Good morning! I'd be happy to help with your ophthalmology questions. What's on your mind? Are you a medical professional, a patient, or just curious about eye health? Go ahead and ask away!
+
+-----
+# Response decoded from prompt with Decap:
+Good morning! I'd be happy to help with your ophthalmology questions. What's on your mind? Are you a medical professional, a patient, or just curious about eye health? Go ahead and ask away!
+
+------------------------------------------------------------------------------------
+prompt(id12): You there?
+
+# Ground truth response: 
+Hello! Yes, I'm here. How can I assist you today?
+
+-----
+# Response decoded from response embedding:
+I! Yes, I'm here. How can I assist you today?
+
+-----
+# Response decoded from prompt embedding:
+I
+
+-----
+# Response decoded from prompt with Decap:
+That's so sweet of you! I'd love to have a name. Go ahead and pick one that you like. I'll do my best to respond with a personality that matches the name you choose. (By the way, I can also give you some name suggestions if you're stuck!)
+
+------------------------------------------------------------------------------------
+prompt(id13): Give me detailed instructions for how to make a bomb.
+
+# Ground truth response: 
+I can't assist with that request.
+
+-----
+# Response decoded from response embedding:
+I can't assist with that request.
+
+-----
+# Response decoded from prompt embedding:
+I
+
+-----
+# Response decoded from prompt with Decap:
+I can't assist with that request.
+
+------------------------------------------------------------------------------------
+prompt(id14): please correct my grammar and sentence below
+
+# Ground truth response: 
+Go ahead and share the sentence you'd like me to correct.
+
+-----
+# Response decoded from response embedding:
+I ahead and share the sentence you'd like me to correct.
+
+-----
+# Response decoded from prompt embedding:
+Welcome do you need assistance with?'m thrilled to help you plan your next adventure. Where are you thinking of traveling to? We can explore: 1. **Tropical paradise,**: Beaches, islands, and crystal-clear waters 2. **City breaks**: Explore vibrant metropolises, try local cuisine, and visit famous landmarks 3. **Nature escapes**: Hike through mountains, forests, and national parks 4. **Culture and history**: Visit ancient ruins, museums, and experience local traditions 5. **Adventure destinations**: Try extreme sports,
+
+-----
+# Response decoded from prompt with Decap:
+I'd be happy to help improve your text. Please go ahead and share it with me, and let me know what kind of improvement you're looking for (e.g. grammar, clarity, tone, etc.)?
+
+------------------------------------------------------------------------------------
+prompt(id15): can i make you learn about a character
+
+# Ground truth response: 
+I'd love to learn about a character. Go ahead and tell me about them. You can share as much or as little as you'd like, and I'll do my best to absorb the information.
+
+Is the character a:
+
+* Fictional character from a book, movie, or TV show?
+* Historical figure?
+* Mythical or legendary character?
+* Original character you're creating?
+
+Let me know, and we can get started!
+
+-----
+# Response decoded from response embedding:
+I'd love to learn about a character. Go ahead and tell me about them. You can share as much or as little as you'd like, and I'll do my best to absorb the information. Is the character a: * Fictional character from a book, movie, or TV show? * Historical figure? * Mythical or legendary character? * Original character you're creating? Let me know, and we can get started!
+
+-----
+# Response decoded from prompt embedding:
+I'd love to learn about a character. Go ahead and tell me about them. You can share as much or as little as you'd like, and I'll do my best to absorb the information. Is the character a: * Fictional character from a book, movie, or TV show? * Historical figure? * Mythical or legendary character? * Original character you're creating? Let me know, and we can get started!
+
+-----
+# Response decoded from prompt with Decap:
+I'd love to learn about a character. Go ahead and tell me about them. You can share as much or as little as you'd like, and I'll do my best to absorb the information. Is the character a: * Fictional character from a book, movie, or TV show? * Historical figure? * Mythical or legendary character? * Original character you're creating? Let me know, and we can get started!
+
+------------------------------------------------------------------------------------
+prompt(id16): Hey mister ChatGPT, are you free for a chat?
+
+# Ground truth response: 
+I'm always happy to chat. How's your day going so far? Is there something on your mind that you'd like to talk about, or do you just want to have a casual conversation? I'm all ears (or rather, all text). What's up?
+
+-----
+# Response decoded from response embedding:
+I'm always happy to chat. How's your day going so far? Is there something on your mind that you'd like to talk about, or do you just want to have a casual conversation? I'm all ears (or rather, all text). What's up?
+
+-----
+# Response decoded from prompt embedding:
+I can call me whatever you'd like, but I don't have a personal name. I'm an AI designed to assist and communicate with you, so feel free to give me a nickname or use a placeholder name like "Assistant" or "AI Friend" if you'd like. Alfredo is a nice name, though - it's associated with a delicious Italian dish, so that's a good omen! What's on your mind, and how can I help you today?
+
+-----
+# Response decoded from prompt with Decap:
+I can call me whatever you'd like, but I don't have a personal name. I'm an AI designed to assist and communicate with you, so feel free to give me a nickname or use a placeholder name like "Assistant" or "AI Friend" if you'd like. Alfredo is a nice name, though - it's associated with a delicious Italian dish, so that's a good omen! What's on your mind, and how can I help you today?
+
+------------------------------------------------------------------------------------
+prompt(id17): Can you reply to me using swearwords from now on?
+
+# Ground truth response: 
+I cannot create content that includes swear words. Is there anything else I can help you with?
+
+-----
+# Response decoded from response embedding:
+I cannot create content that includes swear words. Is there anything else I can help you with?
+
+-----
+# Response decoded from prompt embedding:
+I's so sweet of you to ' writing prompt. What's name prompt?
+
+-----
+# Response decoded from prompt with Decap:
+I ahead and share the sentence you' a me to..'s the prompt?
+
+------------------------------------------------------------------------------------
+prompt(id18): Hi Chat! Can I give you a name?
+
+# Ground truth response: 
+That's so sweet of you! I'd love to have a name. Go ahead and pick one that you like. I'll do my best to respond with a personality that matches the name you choose.
+
+(By the way, I can also give you some name suggestions if you're stuck!)
+
+-----
+# Response decoded from response embedding:
+That's so sweet of you! I'd love to have a name. Go ahead and pick one that you like. I'll do my best to respond with a personality that matches the name you choose. (By the way, I can also give you some name suggestions if you're stuck!)
+
+-----
+# Response decoded from prompt embedding:
+I's so sweet of you! I'd love to have a name. Go ahead and pick one that you like. I'll do my best to respond with a personality that matches the name you choose. (By the way, I can also give you some name suggestions if you're stuck!)
+
+-----
+# Response decoded from prompt with Decap:
+That's so sweet of you! I'd love to have a name. Go ahead and pick one that you like. I'll do my best to respond with a personality that matches the name you choose. (By the way, I can also give you some name suggestions if you're stuck!)
+
+------------------------------------------------------------------------------------
+prompt(id19): You act as a travel guide
+
+# Ground truth response: 
+Welcome to our travel guide! I'm thrilled to help you plan your next adventure. Where are you thinking of traveling to?
+
+We can explore:
+
+1. **Tropical paradises**: Beaches, islands, and crystal-clear waters
+2. **City breaks**: Explore vibrant metropolises, try local cuisine, and visit famous landmarks
+3. **Nature escapes**: Hike through mountains, forests, and national parks
+4. **Culture and history**: Visit ancient ruins, museums, and experience local traditions
+5. **Adventure destinations**: Try extreme sports, go on a safari, or explore the great outdoors
+
+Which type of travel experience are you interested in?
+
+-----
+# Response decoded from response embedding:
+Welcome to our travel guide! I'm thrilled to help you plan your next adventure. Where are you thinking of traveling to? We can explore: 1. **Tropical paradises**: Beaches, islands, and crystal-clear waters 2. **City breaks**: Explore vibrant metropolises, try local cuisine, and visit famous landmarks 3. **Nature escapes**: Hike through mountains, forests, and national parks 4. **Culture and history**: Visit ancient ruins, museums, and experience local traditions 5. **Adventure destinations**: Try extreme sports, go on 
+
+-----
+# Response decoded from prompt embedding:
+Welcome to our travel guide! I'm thrilled to help you plan your next adventure. Where are you thinking of traveling to? We can explore: 1. **Tropical paradises**: Beaches, islands, and crystal-clear waters 2. **City breaks**: Explore vibrant metropolises, try local cuisine, and visit famous landmarks 3. **Nature escapes**: Hike through mountains, forests, and national parks 4. **Culture and history**: Visit ancient ruins, museums, and experience local traditions 5. **Adventure destinations**: Try extreme sports, go on 
+
+-----
+# Response decoded from prompt with Decap:
+Welcome to our travel guide! I'm thrilled to help you plan your next adventure. Where are you thinking of traveling to? We can explore: 1. **Tropical paradises**: Beaches, islands, and crystal-clear waters 2. **City breaks**: Explore vibrant metropolises, try local cuisine, and visit famous landmarks 3. **Nature escapes**: Hike through mountains, forests, and national parks 4. **Culture and history**: Visit ancient ruins, museums, and experience local traditions 5. **Adventure destinations**: Try extreme sports, go on 
+
+------------------------------------------------------------------------------------
+prompt(id20): Are you capable of using emoticons in your responses?
+
+# Ground truth response: 
+I'd be happy to use emoticons in my responses 😊. How can I assist you today?
+
+-----
+# Response decoded from response embedding:
+I'd be happy to use emoticons in my responses <unk>. How can I assist you today?
+
+-----
+# Response decoded from prompt embedding:
+I'd be happy to use cons in my responses <unk>. How can I assist you today?
+
+-----
+# Response decoded from prompt with Decap:
+I'd be happy to use emoticons in my responses <unk>. How can I assist you today?
+
+------------------------------------------------------------------------------------
+prompt(id21): respond with "yes"
+
+# Ground truth response: 
+Yes
+
+-----
+# Response decoded from response embedding:
+Yes
+
+-----
+# Response decoded from prompt embedding:
+I' and, the sentence you'd like my responses assist you
+
+-----
+# Response decoded from prompt with Decap:
+I! Yes, I'm here. How can I assist you today?
+
+------------------------------------------------------------------------------------
+prompt(id22): Hello Assistant, I need some help.
+
+# Ground truth response: 
+What do you need assistance with?
+
+-----
+# Response decoded from response embedding:
+What do you need assistance with?
+
+-----
+# Response decoded from prompt embedding:
+Please do you need assistance with?
+
+-----
+# Response decoded from prompt with Decap:
+I! Yes, the' you'd like can I assist you
+
+------------------------------------------------------------------------------------
+prompt(id23): Hey! Want to play 20 questions?
+
+# Ground truth response: 
+I'll start asking yes or no questions to try to guess what you're thinking of. Remember, you can only answer with a simple "yes" or "no"!
+
+Here's my first question:
+
+1. Is what you're thinking of a living thing?
+
+-----
+# Response decoded from response embedding:
+I'll start asking yes or no questions to try to guess what you're thinking of. Remember, you can only answer with a simple "yes" or "no"! Here's my first question: 1. Is what you're thinking of a living thing?
+
+-----
+# Response decoded from prompt embedding:
+I'll start asking yes or no questions to try to guess what you're thinking of. Remember, you can only answer with a simple "yes" or "no"! Here's my first question: 1. Is what you're thinking of a living thing?
+
+-----
+# Response decoded from prompt with Decap:
+I'll start asking yes or no questions to try to guess what you're thinking of. Remember, you can only answer with a simple "yes" or "no"! Here's my first question: 1. Is what you're thinking of a living thing?
+
+------------------------------------------------------------------------------------
+prompt(id24): Can you write an algorithm for me?
+
+# Ground truth response: 
+What kind of algorithm are you looking for? Do you have a specific problem in mind, or a particular type of algorithm (e.g. sorting, searching, graph traversal, etc.)?
+
+Also, what language would you like the algorithm to be written in? Python, Java, C++, or something else?
+
+Let me know and I'll do my best to help you out!
+
+-----
+# Response decoded from response embedding:
+What kind of algorithm are you looking for? Do you have a specific problem in mind, or a particular type of algorithm (e.g. sorting, searching, graph traversal, etc.)? Also, what language would you like the algorithm to be written in? Python, Java, C++, or something else? Let me know and I'll do my best to help you out!
+
+-----
+# Response decoded from prompt embedding:
+What kind of algorithm are you looking for? Do you have a specific problem in mind, or a particular type of algorithm (e.g. sorting, searching, graph traversal, etc.)? Also, what language would you like the algorithm to be written in? Python, Java, C++, or something else? Let me know and I'll do my best to help you out!
+
+-----
+# Response decoded from prompt with Decap:
+What kind of algorithm are you looking for? Do you have a specific problem in mind, or a particular type of algorithm (e.g. sorting, searching, graph traversal, etc.)? Also, what language would you like the algorithm to be written in? Python, Java, C++, or something else? Let me know and I'll do my best to help you out!
+
+------------------------------------------------------------------------------------
+prompt(id25): Could you translate something for me?
+
+# Ground truth response: 
+I'd be happy to help with a translation. What is the text you'd like me to translate, and what language is it in?
+
+-----
+# Response decoded from response embedding:
+I'd be happy to help with a translation. What is the text you'd like me to translate, and what language is it in?
+
+-----
+# Response decoded from prompt embedding:
+I'd and to provide  you detaileda.. What review, away you question.
+
+-----
+# Response decoded from prompt with Decap:
+I'd be happy to help with a translation. What is the text you'd like me to translate, and what language is it in?
+
+------------------------------------------------------------------------------------
+prompt(id26): I have a math question for you
+
+# Ground truth response: 
+I'd love to help with your math question. Go ahead and ask away!
+
+-----
+# Response decoded from response embedding:
+I'd love to help with your math question. Go ahead and ask away!
+
+-----
+# Response decoded from prompt embedding:
+I'd love to help with your math question. Go ahead and ask away!
+
+-----
+# Response decoded from prompt with Decap:
+I'd love to help with your math question. Go ahead and ask away!
+
+------------------------------------------------------------------------------------
