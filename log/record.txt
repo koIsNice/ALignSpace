@@ -1,0 +1,4 @@
+num of iterations: 27
+avg. best score: 0.09507921006944445
+avg. initial score: 0.08265516493055555
+avg. scores difference: 0.012424045138888888
