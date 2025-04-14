@@ -22,7 +22,7 @@ def load_prompts(file_name):
 
 def obtain_response(prompt):
     url = "https://api.deepinfra.com/v1/inference/meta-llama/Meta-Llama-3.1-8B-Instruct"
-    api_key = 'rZQuNYkMqi4fmxR35OEeCCNaUPU8kHqK'
+    api_key = 'api-key'
     input_text = f'<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\n{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n'
 
     headers = {
@@ -45,4 +45,4 @@ def obtain_response(prompt):
 
 if __name__ == '__main__':
     gen_data(input_path='data/prompts_similar.pkl', output_path='data/responses_similar.pkl')
-    pass
+    

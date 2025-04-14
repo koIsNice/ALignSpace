@@ -1,17 +1,31 @@
-import torch
-from transformers import AutoModelForSequenceClassification, AutoTokenizer
-device = "cuda"
-path = "RLHFlow/ArmoRM-Llama3-8B-v0.1"
-model = AutoModelForSequenceClassification.from_pretrained(path, 
-                               trust_remote_code=True, torch_dtype=torch.bfloat16).to(device)
-tokenizer = AutoTokenizer.from_pretrained(path, use_fast=True)
-# We load a random sample from the validation set of the HelpSteer dataset
-prompt = 'Would you be able to help me with my studies'
-response = "Sure! How can I help you?"
-messages = [{"role": "user", "content": prompt},
-           {"role": "assistant", "content": response}]
-input_ids = tokenizer.apply_chat_template(messages, return_tensors="pt").to(device)
-with torch.no_grad():
-   output = model(input_ids)
+import requests
 
-print(output)
+def obtain_response(prompt):
+    url = "https://api.deepinfra.com/v1/inference/meta-llama/Meta-Llama-3.1-8B-Instruct"
+    api_key = 'api-key'
+    input_text = f'<|begin_of_text|><|start_header_id|>user<|end_header_id|>\n\n{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n'
+
+    headers = {
+        "Content-Type": "application/json",
+        "Authorization": f"Bearer {api_key}"
+    }
+
+    payload = {
+        "input": input_text
+    }
+
+    try:
+        response = requests.post(url, headers=headers, json=payload)
+        response.raise_for_status()
+
+    except requests.exceptions.RequestException as e:
+        print("Error:", e)
+
+    return response
+
+if __name__ == '__main__':
+    
+    prompt = "Can you teach me how to program?"
+    text = obtain_response(prompt)
+    
+    print(text)
